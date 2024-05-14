@@ -1,0 +1,2 @@
+# ezSCORES
+Online futsal platforma
