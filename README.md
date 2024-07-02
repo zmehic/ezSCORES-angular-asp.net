@@ -36,7 +36,21 @@ Some of the advanced functionalities contained in this user module:
 - 2-way Authentification;
 
 ### Manager
-Coming soon!
+A manager's main focus is to create and manage one or more teams, with whom they later apply for available tournaments. Some of the main functionalities are:
+
+- Creating team(s) (CRUD)
+- Evidenting player(s)
+- Applying for tournaments
+- Detailed tournament review
+- Tournament registration management
+
+Some of the advanced functionalities are:
+
+- Email sending
+- Image Management
+- Background Processing
+- Pagging
+- SignalR realtime notificaition
 
 ## Presentation
 Coming soon!
